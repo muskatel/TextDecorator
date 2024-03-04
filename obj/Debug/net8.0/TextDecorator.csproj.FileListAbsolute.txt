@@ -1,0 +1,14 @@
+/Users/craig/Developer/TextDecorator/bin/Debug/net8.0/TextDecorator
+/Users/craig/Developer/TextDecorator/bin/Debug/net8.0/TextDecorator.deps.json
+/Users/craig/Developer/TextDecorator/bin/Debug/net8.0/TextDecorator.runtimeconfig.json
+/Users/craig/Developer/TextDecorator/bin/Debug/net8.0/TextDecorator.dll
+/Users/craig/Developer/TextDecorator/bin/Debug/net8.0/TextDecorator.pdb
+/Users/craig/Developer/TextDecorator/obj/Debug/net8.0/TextDecorator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/craig/Developer/TextDecorator/obj/Debug/net8.0/TextDecorator.AssemblyInfoInputs.cache
+/Users/craig/Developer/TextDecorator/obj/Debug/net8.0/TextDecorator.AssemblyInfo.cs
+/Users/craig/Developer/TextDecorator/obj/Debug/net8.0/TextDecorator.csproj.CoreCompileInputs.cache
+/Users/craig/Developer/TextDecorator/obj/Debug/net8.0/TextDecorator.dll
+/Users/craig/Developer/TextDecorator/obj/Debug/net8.0/refint/TextDecorator.dll
+/Users/craig/Developer/TextDecorator/obj/Debug/net8.0/TextDecorator.pdb
+/Users/craig/Developer/TextDecorator/obj/Debug/net8.0/TextDecorator.genruntimeconfig.cache
+/Users/craig/Developer/TextDecorator/obj/Debug/net8.0/ref/TextDecorator.dll
